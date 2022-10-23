@@ -1,9 +1,9 @@
 const myPiano = new Promise((resolve,reject) => {
-    const nKeys = 5;
-    const width = 1225;
-    const height = 150;
+    const nKeys = 62;
     const bWidth=10;
     const wWidth=22;
+    const height = 150;
+    const width = 62 * wWidth;
     const bHeight = 100;
     const wHeight = height;
     const bColour = "#121212";

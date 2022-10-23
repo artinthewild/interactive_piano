@@ -266,7 +266,7 @@
         "names" : ["C#5","Db5"]
     },
     { 
-        "position": 52,
+        "position": 53,
         "colour": "w",
         "names" : ["D5","C##5"]
     },
@@ -319,5 +319,65 @@
         "position": 62,
         "colour": "w",
         "names" : ["C6"]
+    },
+    { 
+        "position": 62,
+        "colour": "b",
+        "names" : ["C#6","Db6"]
+    },
+    { 
+        "position": 63,
+        "colour": "w",
+        "names" : ["D6","C##6"]
+    },
+    { 
+        "position": 63,
+        "colour": "b",
+        "names" : ["D#6","Eb6"]
+    },
+    { 
+        "position": 64,
+        "colour": "w",
+        "names" : ["E6","Fb6"]
+    },
+    { 
+        "position": 65,
+        "colour": "w",
+        "names" : ["F6","E#6"]
+    },
+    { 
+        "position": 66,
+        "colour": "b",
+        "names" : ["F#6","Gb6"]
+    },
+    { 
+        "position": 67,
+        "colour": "w",
+        "names" : ["G6","F##6"]
+    },
+    { 
+        "position": 68,
+        "colour": "b",
+        "names" : ["G#6","Ab6"]
+    },
+    { 
+        "position": 69,
+        "colour": "w",
+        "names" : ["A6"]
+    },
+    { 
+        "position": 70,
+        "colour": "b",
+        "names" : ["A#6","Bb6"]
+    },
+    { 
+        "position": 71,
+        "colour": "w",
+        "names" : ["B6","Cb6"]
+    },
+    { 
+        "position": 72,
+        "colour": "w",
+        "names" : ["C7"]
     }
 ]
