@@ -1,0 +1,23 @@
+#piano svg {
+    background-color: aqua;
+}
+
+.key {
+    stroke-width: 1.5px;
+    transition: fill 250ms linear, stroke 250ms linear;
+    transition-delay: 150ms;
+}
+
+.whiteKey {
+    fill: #fff; 
+    stroke: #777;
+}
+
+.blackKey {
+    fill: #333; 
+    stroke: #000;
+}
+
+.highlightKey {
+    fill: rgb(3, 251, 32)
+}

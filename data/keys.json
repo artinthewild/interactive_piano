@@ -1,0 +1,323 @@
+[
+    { 
+        "position": 0,
+        "colour": "w",
+        "names" : ["A0","Bbb0"]
+    },
+    { 
+        "position": 1,
+        "colour": "b",
+        "names" : ["A#0","Bb0"]
+    },
+    { 
+        "position": 2,
+        "colour": "w",
+        "names" : ["B0","A##0"]
+    },
+    { 
+        "position": 3,
+        "colour": "w",
+        "names" : ["C1","B#0"]
+    },
+    { 
+        "position": 4,
+        "colour": "b",
+        "names" : ["C#1","Db1"]
+    },
+    { 
+        "position": 5,
+        "colour": "w",
+        "names" : ["D1","C##1"]
+    },
+    { 
+        "position": 6,
+        "colour": "b",
+        "names" : ["D#1","Eb1"]
+    },
+    { 
+        "position": 7,
+        "colour": "w",
+        "names" : ["E1","Fb1"]
+    },
+    { 
+        "position": 8,
+        "colour": "w",
+        "names" : ["F1","E#1"]
+    },
+    { 
+        "position": 9,
+        "colour": "b",
+        "names" : ["F#1","Gb1"]
+    },
+    { 
+        "position": 10,
+        "colour": "w",
+        "names" : ["G1","F##1"]
+    },
+    { 
+        "position": 11,
+        "colour": "b",
+        "names" : ["G#1","Ab1"]
+    },
+    { 
+        "position": 12,
+        "colour": "w",
+        "names" : ["A1"]
+    },
+    { 
+        "position": 13,
+        "colour": "b",
+        "names" : ["A#1","Bb1"]
+    },
+    { 
+        "position": 14,
+        "colour": "w",
+        "names" : ["B1","Cb1"]
+    },
+    { 
+        "position": 15,
+        "colour": "w",
+        "names" : ["C2","B#1"]
+    },
+    { 
+        "position": 16,
+        "colour": "b",
+        "names" : ["C#2","Db2"]
+    },
+    { 
+        "position": 17,
+        "colour": "w",
+        "names" : ["D2","C##2"]
+    },
+    { 
+        "position": 18,
+        "colour": "b",
+        "names" : ["D#2","Eb2"]
+    },
+    { 
+        "position": 19,
+        "colour": "w",
+        "names" : ["E2","Fb2"]
+    },
+    { 
+        "position": 20,
+        "colour": "w",
+        "names" : ["F2","E#2"]
+    },
+    { 
+        "position": 21,
+        "colour": "b",
+        "names" : ["F#2","Gb2"]
+    },
+    { 
+        "position": 22,
+        "colour": "w",
+        "names" : ["G2","F##2"]
+    },
+    { 
+        "position": 23,
+        "colour": "b",
+        "names" : ["G#2","Ab2"]
+    },
+    { 
+        "position": 24,
+        "colour": "w",
+        "names" : ["A2"]
+    },
+    { 
+        "position": 25,
+        "colour": "b",
+        "names" : ["A#2","Bb2"]
+    },
+    { 
+        "position": 26,
+        "colour": "w",
+        "names" : ["B2","Cb2"]
+    },
+    { 
+        "position": 27,
+        "colour": "w",
+        "names" : ["C3","B#2"]
+    },
+    { 
+        "position": 28,
+        "colour": "b",
+        "names" : ["C#3","Db3"]
+    },
+    { 
+        "position": 29,
+        "colour": "w",
+        "names" : ["D3","C##3"]
+    },
+    { 
+        "position": 30,
+        "colour": "b",
+        "names" : ["D#3","Eb3"]
+    },
+    { 
+        "position": 31,
+        "colour": "w",
+        "names" : ["E3","Fb3"]
+    },
+    { 
+        "position": 32,
+        "colour": "w",
+        "names" : ["F3","E#3"]
+    },
+    { 
+        "position": 33,
+        "colour": "b",
+        "names" : ["F#3","Gb3"]
+    },
+    { 
+        "position": 34,
+        "colour": "w",
+        "names" : ["G3","F##3"]
+    },
+    { 
+        "position": 35,
+        "colour": "b",
+        "names" : ["G#3","Ab3"]
+    },
+    { 
+        "position": 36,
+        "colour": "w",
+        "names" : ["A3"]
+    },
+    { 
+        "position": 37,
+        "colour": "b",
+        "names" : ["A#3","Bb3"]
+    },
+    { 
+        "position": 38,
+        "colour": "w",
+        "names" : ["B3","Cb3"]
+    },
+
+    { 
+        "position": 39,
+        "colour": "w",
+        "names" : ["C4","B#3"]
+    },
+    { 
+        "position": 40,
+        "colour": "b",
+        "names" : ["C#4","Db4"]
+    },
+    { 
+        "position": 41,
+        "colour": "w",
+        "names" : ["D4","C##4"]
+    },
+    { 
+        "position": 42,
+        "colour": "b",
+        "names" : ["D#4","Eb4"]
+    },
+    { 
+        "position": 43,
+        "colour": "w",
+        "names" : ["E4","Fb4"]
+    },
+    { 
+        "position": 44,
+        "colour": "w",
+        "names" : ["F4","E#4"]
+    },
+    { 
+        "position": 45,
+        "colour": "b",
+        "names" : ["F#5","Gb5"]
+    },
+    { 
+        "position": 46,
+        "colour": "w",
+        "names" : ["G4","F##4"]
+    },
+    { 
+        "position": 47,
+        "colour": "b",
+        "names" : ["G#4","Ab4"]
+    },
+    { 
+        "position": 48,
+        "colour": "w",
+        "names" : ["A4"]
+    },
+    { 
+        "position": 49,
+        "colour": "b",
+        "names" : ["A#4","Bb4"]
+    },
+    { 
+        "position": 50,
+        "colour": "w",
+        "names" : ["B4","Cb5"]
+    },
+    { 
+        "position": 51,
+        "colour": "w",
+        "names" : ["C5","B#4"]
+    },
+    { 
+        "position": 51,
+        "colour": "b",
+        "names" : ["C#5","Db5"]
+    },
+    { 
+        "position": 52,
+        "colour": "w",
+        "names" : ["D5","C##5"]
+    },
+    { 
+        "position": 53,
+        "colour": "b",
+        "names" : ["D#5","Eb5"]
+    },
+    { 
+        "position": 54,
+        "colour": "w",
+        "names" : ["E5","Fb5"]
+    },
+    { 
+        "position": 55,
+        "colour": "w",
+        "names" : ["F5","E#5"]
+    },
+    { 
+        "position": 56,
+        "colour": "b",
+        "names" : ["F#5","Gb5"]
+    },
+    { 
+        "position": 57,
+        "colour": "w",
+        "names" : ["G5","F##5"]
+    },
+    { 
+        "position": 58,
+        "colour": "b",
+        "names" : ["G#5","Ab5"]
+    },
+    { 
+        "position": 59,
+        "colour": "w",
+        "names" : ["A5"]
+    },
+    { 
+        "position": 60,
+        "colour": "b",
+        "names" : ["A#5","Bb5"]
+    },
+    { 
+        "position": 61,
+        "colour": "w",
+        "names" : ["B5","Cb5"]
+    },
+    { 
+        "position": 62,
+        "colour": "w",
+        "names" : ["C6"]
+    }
+]
